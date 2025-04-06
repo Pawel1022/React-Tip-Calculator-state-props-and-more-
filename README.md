@@ -36,7 +36,7 @@ The app takes the bill amount, combines two tip percentages, and shows the total
 
 ## 🚀 Live Demo
 
-👉 [https://your-live-link.vercel.app](https://your-live-link.vercel.app)  
+👉 [https://react-tip-calculator-state-props-and-more.vercel.app/](https://react-tip-calculator-state-props-and-more.vercel.app/)  
 _(Replace with your deployed link if available)_
 
 ---
