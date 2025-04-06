@@ -47,10 +47,3 @@ If the bill is `$80`, and you rated the service `10%` and your friend `20%`:
 → Tip = 15% → Final total: **$92**
 
 ---
-
-## ✍️ Author
-
-**Paweł Woźniak**  
-React learner focused on building logic-first, no-frills mini apps to practice component thinking and data flow.
-
-[GitHub – Pawel1022](https://github.com/Pawel1022)
